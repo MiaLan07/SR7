@@ -1,0 +1,15 @@
+.contacts ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+.contacts ul li {
+    display: inline;    
+}
+.contacts ul li {
+    text-decoration: none;
+    font-weight: bold;
+}
+.contacts ul li:hover {
+    text-decoration: underline;
+}

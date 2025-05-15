@@ -1,0 +1,15 @@
+.home {
+    background-image: url(https://12elfthman.wordpress.com/wp-content/uploads/2014/04/bluewater-is-all-in-12th-man-12elfth-man.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 10px;
+}
+
+.home h1 {
+    width: 100%;
+}
