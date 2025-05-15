@@ -11,5 +11,9 @@
     font-weight: bold;
 }
 .contacts ul li:hover {
-    text-decoration: underline;
+    cursor: pointer;
+}
+* {
+    text-align: center;
+    margin: auto;
 }
